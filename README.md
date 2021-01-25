@@ -33,7 +33,7 @@ The Flutter App which provite Temperature of Location/City
 ## Details
 This is Climate and Weather App Developed in Flutter Framework
 
-The BMI is a convenient rule of thumb used to broadly categorize a person as
+Features  
 1) It can fetch your live location & provide Temperature of that place
 2) It can also provide temperature of particular City
 
